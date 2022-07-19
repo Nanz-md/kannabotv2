@@ -1,7 +1,7 @@
 {
-    "name": "Kanna BOT",
+    "name": "Nanz-MD",
     "version": "2.10.18",
-    "description": "RPG WhatsApp BOT",
+    "description": "WhatsApp BOT",
     "main": "index.js",
     "type": "module",
     "directories": {
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/BochilGaming/games-wabot",
+    "homepage": "https://github.com/",
     "author": {
-        "name": "BochilGaming"
+        "name": "Nanz"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BochilGaming/games-wabot.git"
+        "url": "git+https://github.com"
     },
     "bugs": {
-        "url": "https://github.com/BochilGaming/games-wabot/issues"
+        "url": "https://github.com"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
